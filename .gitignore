@@ -1,0 +1,59 @@
+# Visual Studio .NET Core
+.vs/
+
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+logs/
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Entity Framework Migrations
+Migrations/
+
+# Rider project files
+.idea/
+
+# JetBrains Rider settings
+*.sln.iml
+
+# ASP.NET runtime-generated files
+app.db
+app.db-journal
+
+# Publish outputs
+.publish/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Resharper
+_ReSharper.Caches/
+
+# Local development secrets
+secrets.json
+
+# Docker
+**/[Dd]ocker*
+
+# Azure Functions
+.local.settings.json
+
+# NPM packages (if using frontend assets)
+npm-debug.log
+yarn-error.log
+node_modules/
